@@ -1,12 +1,12 @@
-# [Welcome to GEOG 286 & 386 Python Programming for GIS ](https://gisynw.github.io/geog386/)
+# [Welcome to GEOG 3319 Geogrpahi Field Techniques](https://gisynw.github.io/Field_Techniques/)
 
-![LinkedIn Badge](https://img.shields.io/github/repo-size/gisynw/geog386)
+![LinkedIn Badge](https://gisynw.github.io/Field_Techniques/)
    
 Hi there! Welcome to my GitHub repository where I share my lecture. I'm excited to have you here!
 
 ## About Me
 
-I am a Visiting Assistant Professor in [Graduate School of Geography](https://www.clarku.edu/departments/geography/) at [Clark University](https://www.clarku.edu/). 
+I am a Assistant Professor in [Graduate School of Geography](https://www.clarku.edu/departments/geography/) at [Clark University](https://www.clarku.edu/). 
 
 I hold a Ph.D. from the [Department of Geospatial Information Sciences](https://epps.utdallas.edu/about/programs/geospatial-information-sciences/) at the [University of Texas at Dallas](https://www.utdallas.edu/) (德州大学达拉斯分校).
 

@@ -1,12 +1,12 @@
-site_name: Yanan Wu Teaching GEOG 286&386
-site_description: Yanan Wu Teaching GEOG 286&386
+site_name: Yanan Wu Teaching GEOG 3319
+site_description: Yanan Wu Teaching GEOG 3319
 site_author: Yanan Wu
-site_url: https://gisynw.github.io/geog386/
+site_url: https://gisynw.github.io/Field_Techniques/
 copyright: "Copyright &copy; 2024 - 2025 Yanan Wu"
 
 # Repository
 repo_name: gisynw/geog386
-repo_url: https://github.com/gisynw/geog386.git
+repo_url: https://gisynw.github.io/Field_Techniques/
 
 # Configuration
 theme:
