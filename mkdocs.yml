@@ -92,20 +92,18 @@ plugins:
 nav:
     - Home: index.md
     - Syllabus:
-      - Syllabus Spring 2025: "Content/Spring2025_syllabus.ipynb"
+      - Syllabus Spring 2025: "Content/syllabus.ipynb"
     - Softwares:
-      - Visual Studio Code: "software/Visual-Studio-Code.ipynb"
       - ArcGIS Pro: "software/ArcGISPro.ipynb"
-      - Anaconda: "software/Anaconda.ipynb"
     - Lectures:
-      - Week 1 Introdyction: "Lectures/Week01/Week01Intro_Lecture.ipynb"
-      - Week 2 Python Fundamental: "Lectures/Week02/Week02PyFdMetal.ipynb"
-      - Week 3 Python Fundamental 2: "Lectures/Week03/Week03Fundamental02.ipynb"
-      - Week 4 Pandas: "Lectures/Week04/Student_Week04_Pandas.ipynb"
-      - Week 5 Data Visualization: "Lectures/Week05_visualization/Student_Week05_visualization.ipynb"
-      - Week 6 Data Visualization Part 02: "Lectures/Week06_visualizationPart02/Week06_Data_Visualization.ipynb"
-      - Week 7 Spatial Analysis in Arcpy: "Lectures/Week07/Week07_Arcpy.ipynb"
-      - Week 10 Raster: "Lectures/Week10_Geopandas_Raster/Week10_raster_Student.ipynb"
+      # - Week 1 Introdyction: "Lectures/Week01/Week01Intro_Lecture.ipynb"
+      # - Week 2 Python Fundamental: "Lectures/Week02/Week02PyFdMetal.ipynb"
+      # - Week 3 Python Fundamental 2: "Lectures/Week03/Week03Fundamental02.ipynb"
+      # - Week 4 Pandas: "Lectures/Week04/Student_Week04_Pandas.ipynb"
+      # - Week 5 Data Visualization: "Lectures/Week05_visualization/Student_Week05_visualization.ipynb"
+      # - Week 6 Data Visualization Part 02: "Lectures/Week06_visualizationPart02/Week06_Data_Visualization.ipynb"
+      # - Week 7 Spatial Analysis in Arcpy: "Lectures/Week07/Week07_Arcpy.ipynb"
+      # - Week 10 Raster: "Lectures/Week10_Geopandas_Raster/Week10_raster_Student.ipynb"
       # - Week 10 Raster Part 2: "Lectures/Week10_multiple_bands/Week10_instructor.ipynb"
       # - Week 11 Custom Tool in ArcGIS Pro: "Lectures/Week11_CreatingCustom_Tools/scripts/Week11_custom_tool.ipynb"
       # - Week 12 geemap in Python: "Lectures/Week12/geemap.ipynb"
