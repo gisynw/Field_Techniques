@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://gisynw.github.io/Field_Techniques/</loc>
+         <lastmod>2025-07-21</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://gisynw.github.io/Field_Techniques/Content/syllabus/</loc>
+         <lastmod>2025-07-21</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://gisynw.github.io/Field_Techniques/Demo/Week01_Python_Intro/</loc>
+         <lastmod>2025-07-21</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://gisynw.github.io/Field_Techniques/Demo/Week06_visualization_Demo/</loc>
+         <lastmod>2025-07-21</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://gisynw.github.io/Field_Techniques/Labs/Lab01/Lab01_student/</loc>
+         <lastmod>2025-07-21</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://gisynw.github.io/Field_Techniques/software/ArcGISPro/</loc>
+         <lastmod>2025-07-21</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+</urlset>
