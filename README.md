@@ -1,4 +1,4 @@
-# [Welcome to GEOG 3319 Geogrpahi Field Techniques](https://gisynw.github.io/Field_Techniques/)
+# [Welcome to GEOG 3319 Geographic Field Techniques](https://gisynw.github.io/Field_Techniques/)
 
 ![LinkedIn Badge](https://gisynw.github.io/Field_Techniques/)
    
@@ -6,7 +6,7 @@ Hi there! Welcome to my GitHub repository where I share my lecture. I'm excited 
 
 ## About Me
 
-I am a Assistant Professor in [Graduate School of Geography](https://www.clarku.edu/departments/geography/) at [Clark University](https://www.clarku.edu/). 
+I am an Assistant Professor in [Geography Department](https://uca.edu/geography/) at [The University of Central Arkansas](https://uca.edu/). 
 
 I hold a Ph.D. from the [Department of Geospatial Information Sciences](https://epps.utdallas.edu/about/programs/geospatial-information-sciences/) at the [University of Texas at Dallas](https://www.utdallas.edu/) (德州大学达拉斯分校).
 
@@ -16,6 +16,8 @@ I hold a Ph.D. from the [Department of Geospatial Information Sciences](https://
 - 2012–2016 &emsp; B.S. in  Resource Environment and Urban-Rural Planning Management. [Xi’an University of Science and Technology](https://en.xust.edu.cn/), China
 - 
 ## Teaching
+- 2025 &emsp;  GEOG 3319 GEOGRAPHIC FIELD TECHNIQUES - UCA
+- 2025 &emsp;  GEOG 2475 - GIS I (CARTOGRAPHY) - UCA
 - 2025 &emsp;  SSJ 376 Spatial Database DVLP in PRAC - Clark University
 - 2025 &emsp;  GEOG 386 Sptial Topics: Python Programming - Clark University
 - 2025 &emsp;  GEOG 247 Intermediate Quantitative Methods in GEOG - Clark University
