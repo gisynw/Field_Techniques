@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>ArcGIS Map ID Demo</title>
+
+  <!-- ArcGIS JavaScript API stylesheet -->
+  <link rel="stylesheet" href="https://js.arcgis.com/4.30/esri/themes/light/main.css">
+
+  <!-- ArcGIS JavaScript API -->
+  <script src="https://js.arcgis.com/4.30/"></script>
+
+  <style>
+    html, body, #viewDiv {
+      height: 100%;
+      width: 100%;
+      margin: 0;
+      padding: 0;
+    }
+  </style>
+</head>
+<body>
+  <div id="viewDiv"></div>
+
+  <script>
+    require(["esri/WebMap", "esri/views/MapView"], function(WebMap, MapView) {
+      // Load a web map from ArcGIS Online using its ID
+      var webmap = new WebMap({
+        portalItem: {
+          id: "INSERT YOUR MAP ID HERE" // Your map ID
+        }
+      });
+
+      var view = new MapView({
+        container: "viewDiv",
+        map: webmap,
+        center: [-96.7970, 32.7767], // Dallas, TX
+        zoom: 11
+      });
+    });
+  </script>
+</body>
+</html>
